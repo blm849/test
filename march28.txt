@@ -1,0 +1,8 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6A7B-F898
+
+ Directory of c:\temp\test2
+
+03/28/2014  02:08 PM                 0 march28.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  413,404,803,072 bytes free
